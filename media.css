@@ -1,0 +1,182 @@
+@media only screen and (max-width:1290px){
+    .button-join{
+        font-size:14px;
+    }
+    .education-img{
+        width:350px;
+    }
+    .paragraf-education{
+        font-size:11px;
+    }
+    .post-card{
+        width:300px;
+    }
+    .button-login{
+        display:none;
+        margin-top:40px;
+    }
+    .footer-contact{
+        position:relative;
+        left:80px;
+    }
+    .h5-contact-text{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:1136px){
+    .footer{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:1125px){
+    .header-link>li>a{
+        font-size:15px;
+    }
+    .education-img{
+        width:300px;
+    }
+    .paragraf-education{
+        font-size:9px;
+    }
+    .post-card{
+        width:230px;
+    }
+    .footer-contact{
+        width:550px;
+    }
+    .h5-contact-text{
+        font-size:12px;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .header-link>li>a{
+        font-size:15px;
+    }
+    .button-join{
+        display:none;
+    }
+    .education-img{
+        margin-top:80px;
+    }
+    .conteiner-education{
+        flex-direction:column;
+    }
+    .paragraf-education{
+        text-align:center;
+    }
+    .h1-education-text{
+        text-align:center;
+    }
+    .button-get-free{
+        margin-left:250px;
+        margin-top:30px;
+    }
+    .container-popular{
+        flex-direction:column;
+    }
+    .post-card{
+        margin:0 auto;
+        width:384px;
+        margin-top:30px;
+    }
+    .conteiner-footer{
+        flex-direction:column;
+        gap:50px;
+    }
+    .contact-div{
+        position:relative;
+        right:100px;
+    }
+}
+
+@media only screen and (max-width:816px){
+    .section-education{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .header-link>li>a{
+        display:none;
+    }
+    .menu-bar{
+        display:block;
+    }
+    .h3-our-most-popular-text{
+        font-size:25px;
+    }
+    .paragraf-our-popular{
+        font-size:14px;
+    }
+    .footer-logo{
+        position:relative;
+        left:30px;
+    }
+    .footer-logo-img-div{
+        margin:0 auto;
+        position:relative;
+        left:60px;
+    }
+    .paragraf-footer{
+        text-align:center;
+        position:relative;
+        right:60px;
+    }
+    .h5-contact-text{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .contact-div{
+        position:relative;
+        right:160px;
+    }
+    .h5-contact-text{
+        font-size:14px;
+    }
+    .paragraf-contact{
+        font-size:13px;
+    }
+}
+
+@media only screen and (max-width:500px){
+    .h1-education-text{
+        font-size:30px;
+    }
+    .paragraf-education{
+        display:none;
+    }
+    .post-card{
+        position:relative;
+        right:30px;
+    }
+    .h3-our-most-popular-text{
+        font-size:20px;
+        position:relative;
+        right:50px;
+    }
+    .paragraf-our-popular{
+        font-size:11px;
+        position:relative;
+        right:50px;
+    }
+}
+
+@media only screen and (max-width:430px){
+    .paragraf-education{
+        font-size:7px;
+    }
+    .h3-our-most-popular-text{
+        font-size:15px;
+    }
+    .paragraf-our-popular{
+        font-size:10px;
+    }
+    .post-card{
+        width:350px;
+    }
+}
